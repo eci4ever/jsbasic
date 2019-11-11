@@ -1,9 +1,38 @@
 
-var x = "John";             
-var y = new String("John");
+var a = 10;
+var b = 0;
+var c = a / b;
+console.log(c);
 
-console.log(x == y);
-console.log(x === y);
+// var a = [10,7,14,'foo'];
+// var b = [10,7,14,'foo'];
+// console.log(a === b);
+// console.log(typeof b)
+// typeof b;
+// var z = 0;
+// for (var x =0; x < 4; x++)
+// {
+//     z += 2;
+// }
+// console.log(z);
+
+// console.log("1");
+// setTimeout(function() {
+//     console.log("2");
+// }, 3000);
+// console.log("3");
+// setTimeout(function() {
+//     console.log("4");
+// }, 1000);
+
+// let val = (!false&&(true||false));
+// console.log(val);
+
+// var x = "John";             
+// var y = new String("John");
+
+// console.log(x == y);
+// console.log(x === y);
 
 // var str = "I like to drive a \"Proton\" car";
 // console.log(str);
